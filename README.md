@@ -1,9 +1,10 @@
-### Hi there 👋
+<img src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=975&h=300&q=80"/>
+
+### Hi there 👋, I'm Abraham and I'm currently a student studying computer science and a freelance iOS Developer!
 
 <!--
 **Abruuham/Abruuham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 🔭 *I’m currently working on*: Personal iOS Projects and school work
+ 💬 *Ask me about*: Anything you'd like! I love talking about iOS development, personal projects, or if you need help with anything 😊. 
