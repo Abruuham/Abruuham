@@ -21,7 +21,7 @@
  
  ------------------
  <a href="https://github.com/Abruuham/Abruuham">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abruuham&hide=HTML,CSS,EJS,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1017&langs_count=7" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abruuham&hide=HTML,CSS,EJS,Hack,JavaScript,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1017&langs_count=7" />
 </a>
 <a href="https://github.com/Abruuham/Abruuham">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abruuham&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1017" alt="Abraham's GitHub Stats" />
