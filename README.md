@@ -21,11 +21,12 @@ I'm a recent graduate from **CBU** and Software Engineer at **Goldman Sachs**!
  💬 *Ask me about*: Anything you'd like! 😊. 
  
  ------------------
+ <p align="center">
  <a href="https://github.com/Abruuham/Abruuham">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abruuham&hide=HTML,CSS,EJS,Hack,JavaScript,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1017&langs_count=5" />
 </a>
 <a href="https://github.com/Abruuham/Abruuham">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abruuham&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1017" alt="Abraham's GitHub Stats" />
 </a>
-
+</p>
 <br><br>
