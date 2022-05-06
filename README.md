@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=975&h=300&q=80"/>
+<img src="https://images.unsplash.com/photo-1614624532983-4ce03382d63d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80"/>
 
 ### Hi there 👋, I'm Abraham and I'm currently a student studying computer science and a freelance iOS Developer!
 
