@@ -16,7 +16,7 @@ I'm a recent graduate from **CBU** and Software Engineer at **Goldman Sachs**!
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 🌱 I’m currently learning Python and Computer Vision
+ 🤔 I’m currently learning Python and Computer Vision
  
  💬 *Ask me about*: Anything you'd like! 😊. 
  
